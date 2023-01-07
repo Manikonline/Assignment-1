@@ -134,7 +134,7 @@
 }
 
 .ads{
-    background-image:linear-gradient(to bottom, rgba(49, 540, 124, 0.62), rgba(9, 104, 641, 0.11)), url(/images/watch.png);
+    background-image:linear-gradient(to bottom, rgba(49, 540, 124, 0.62), rgba(9, 104, 641, 0.11)), url(images/watch.png);
     width: 1000px;
     height:300px;
     background-repeat: no-repeat;
