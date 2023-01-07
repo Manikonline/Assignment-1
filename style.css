@@ -18,15 +18,18 @@
     margin-bottom: 10px;
 }
 .btn-primary {
-    color:black;
+    color: black;
     font-weight: 700;
     font-size: 20px;
-    border:1px solid purple;
+    border:1px solid black;
     padding: 18px 35px;
     height: 64px;
     border-radius: 5px;
     background:rgb(180, 178, 178);
     margin-top: 10px;
+}
+.btn-primary a{
+    color: black;
 }
 .banner {
     display: flex;
@@ -156,12 +159,16 @@
     color:rgb(3, 8, 8);
     font-weight: 700;
     font-size: 20px;
-    border: 0;
+    border: 1px solid green;
     padding: 18px 35px;
     height: 64px;
     border-radius: 5px;
     background:white;
     margin-top: 10px;  
+}
+.btns a{
+    color: black;
+    
 }
 /* my plans section ends here */
 
